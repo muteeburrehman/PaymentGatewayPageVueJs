@@ -6,7 +6,7 @@ import PaymentFail from "@/components/PaymentFail.vue";
 
 const routes = [
     { path: '/success', component: PaymentSuccess },
-    { path: '/fail', component: PaymentFail }
+    { path: '/cancel', component: PaymentFail }
 ];
 
 const router = createRouter({

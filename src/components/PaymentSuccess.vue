@@ -9,7 +9,7 @@
 
     <h1 class="text-center">Success</h1>
     <i class="checkmark">✓</i>
-    <p >We received your purchase request;<br/> we'll be in touch shortly!</p>
+
   </div>
   </body>
 </template>

@@ -9,7 +9,7 @@
 
     <h1 class="text-danger">Failed</h1>
     <i style="font-size:80px; margin-top: 50px; margin-bottom: 50px; color: red"  class="fa">&#xf00d;</i>
-    <p>We received your purchase request;<br/> we'll be in touch shortly!</p>
+
   </div>
   </body>
 </template>

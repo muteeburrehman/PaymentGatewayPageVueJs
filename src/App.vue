@@ -1,7 +1,7 @@
 <template>
   <div>
     <router-link to="/success"></router-link>
-    <router-link to="/fail"></router-link>
+    <router-link to="/cancel"></router-link>
 
     <router-view></router-view> <!-- This is where the components will be displayed -->
   </div>
